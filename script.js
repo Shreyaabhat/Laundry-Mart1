@@ -82,3 +82,6 @@ const cart = {};
             // Reset form
             event.target.reset();
         }
+        document.getElementById("book-btn").addEventListener("click", function() {
+    alert("Booking confirmed!");
+  });
