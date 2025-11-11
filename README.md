@@ -298,22 +298,18 @@ Report bugs: GitHub Issues
  Price calculator
  Customer reviews section
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-MIT License
 
-Copyright (c) 2024 Your Name
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction...
 👨‍💻 Author
-Your Name
+Shreya Ganapati Bhat
 
-GitHub: @yourusername
-LinkedIn: Your Name
-Email: your.email@example.com
-Portfolio: yourportfolio.com
+GitHub: @Shreyaabhat
+
+Email: shreyabhat389@gmail.com
+
 
 🙏 Acknowledgments
 
@@ -327,7 +323,7 @@ Need help? Here's how to get support:
 
 Documentation: Read this README thoroughly
 Issues: Open an issue
-Email: your.email@example.com
+Email: shreyabhat389@gmail.com
 Discussions: GitHub Discussions
 
 ⭐ Show Your Support
